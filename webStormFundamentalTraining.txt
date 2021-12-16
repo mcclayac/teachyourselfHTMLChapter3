@@ -1,0 +1,12 @@
+
+
+
+Webstorm FUndamental training
+https://www.youtube.com/playlist?list=PLQ176FUIyIUa8IG8bYHZkX5S7W-bpgy76
+
+
+Webstorm Educational Materal
+https://blog.jetbrains.com/webstorm/2020/04/learning-plugin-for-webstorm/#start_learning
+
+F2 - Code
+F1 - Documentation window
